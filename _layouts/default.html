@@ -66,7 +66,7 @@
             <div class="button-stack" role="navigation">
 
               {% for item in site.links %}
-                <a class="button button-{{item.style}}" href="{{item.url}}" target="_blank" rel="noopener" role="button"><img class="icon" aria-hidden="true" src="{{ "/assets/images/icons/{{item.icon}}.svg" | relative_url }}" alt="{{item.alt}}">{{item.text}}</a>
+                <a class="button button-{{item.style}}" href="{{item.url}}" target="_blank" rel="noopener" role="button"><img class="icon" aria-hidden="true" src="{{ '/assets/images/icons/' | append: item.icon | append: '.svg' | relative_url }}" alt="{{item.alt}}">{{item.text}}</a>
               {% endfor %}
 
               <!-- Default LittleLink -->
