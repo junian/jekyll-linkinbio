@@ -22,8 +22,18 @@ keywords: your name, industry, and specialties
 author:
   name: junian
 
-# auto / dark / light
+# To change the theme, change the class on the html tag below to one of:
+#   - auto: Automatically switches based on user's system preferences
+#   - light: Forces light theme
+#   - dark: Forces dark theme
 theme_mode: dark
+
+avatar:
+  # By default, the Avatar is rounded. Use the following:
+  #  - rounded: Automatically rounds the image
+  #  - soft: Slightly rounds the image
+  #  - none: Removes any rounding
+  rounding: soft
 
 links:
   - text: LittleLink
