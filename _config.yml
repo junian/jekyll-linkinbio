@@ -22,6 +22,9 @@ keywords: your name, industry, and specialties
 author:
   name: junian
 
+# auto / dark / light
+theme_mode: dark
+
 links:
   - text: LittleLink
     url: "#"
@@ -573,4 +576,3 @@ links:
     icon: littlelink
     style: default
     alt: LittleLink Logo
-
