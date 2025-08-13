@@ -2,8 +2,8 @@ exclude:
   - node_modules
   - script
 
-# sass:
-#   style: :compressed
+sass:
+  style: compressed
 
 # theme: jekyll-theme-primer
 
