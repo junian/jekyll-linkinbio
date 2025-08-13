@@ -23,9 +23,554 @@ author:
   name: junian
 
 links:
-  - text: Google
-    url: https://google.com
+  - text: LittleLink
+    url: "#"
     icon: littlelink
     style: default
-    alt: Google
+    alt: LittleLink Logo
+  - text: Amazon Wishlist
+    url: "#"
+    icon: amazon
+    style: amazon
+    alt: Amazon Wishlist Logo
+  - text: Listen on Amazon Music
+    url: "#"
+    icon: amazon-music
+    style: amazon-music
+    alt: Amazon Music Logo
+  - text: Apple App Store
+    url: "#"
+    icon: apple
+    style: appstore
+    alt: Apple Logo
+  - text: Apple Invites
+    url: "#"
+    icon: apple-invites
+    style: invites
+    alt: Apple Invites Logo
+  - text: Listen on Apple Music
+    url: "#"
+    icon: apple-music
+    style: apple-music
+    alt: Apple Music Logo
+  - text: Listen on Apple Music
+    url: "#"
+    icon: apple-music-alt
+    style: apple-music-alt
+    alt: Apple Music Logo
+  - text: Listen on Apple Podcasts
+    url: "#"
+    icon: apple-podcasts
+    style: apple-podcasts
+    alt: Apple Podcasts Logo
+  - text: Listen on Apple Podcasts
+    url: "#"
+    icon: apple-podcasts-alt
+    style: apple-podcasts-alt
+    alt: Apple Podcasts Logo
+  - text: Bandcamp
+    url: "#"
+    icon: bandcamp
+    style: bandcamp
+    alt: Bandcamp Logo
+  - text: Behance
+    url: "#"
+    icon: behance
+    style: behance
+    alt: Behance Logo
+  - text: Bluesky
+    url: "#"
+    icon: bluesky
+    style: bluesky
+    alt: Bluesky Logo
+  - text: Bluesky
+    url: "#"
+    icon: bluesky-alt
+    style: bluesky-alt
+    alt: Bluesky Logo
+  - text: Buy Me A Coffee
+    url: "#"
+    icon: buy-me-a-coffee
+    style: coffee
+    alt: Buy Me A Coffee Logo
+  - text: Schedule with Cal.com
+    url: "#"
+    icon: cal
+    style: cal
+    alt: Cal.com Logo
+  - text: Schedule with Calendly
+    url: "#"
+    icon: calendly
+    style: calendly
+    alt: Calendly Logo
+  - text: Cash App
+    url: "#"
+    icon: cash-app-dollar
+    style: cash-app
+    alt: Cash App Logo
+  - text: Dev.to
+    url: "#"
+    icon: dev-to
+    style: dev-to
+    alt: Dev.to Logo
+  - text: Discogs
+    url: "#"
+    icon: discogs
+    style: discogs
+    alt: Discogs Logo
+  - text: Discogs
+    url: "#"
+    icon: discogs-alt
+    style: discogs-alt
+    alt: Discogs Logo
+  - text: Discord
+    url: "#"
+    icon: discord
+    style: discord
+    alt: Discord Logo
+  - text: Dribbble
+    url: "#"
+    icon: dribbble
+    style: dribbble
+    alt: Dribbble Logo
+  - text: Shop on Etsy
+    url: "#"
+    icon: etsy
+    style: etsy
+    alt: Etsy Logo
+  - text: Find us on Facebook
+    url: "#"
+    icon: facebook
+    style: faceb
+    alt: Facebook Logo
+  - text: Chat on Messenger
+    url: "#"
+    icon: messenger
+    style: messenger
+    alt: Messenger Logo
+  - text: Figma Community
+    url: "#"
+    icon: figma
+    style: figma
+    alt: Figma Logo
+  - text: Fiverr Gig
+    url: "#"
+    icon: fiverr
+    style: fiverr
+    alt: Fiverr Logo
+  - text: Flickr
+    url: "#"
+    icon: flickr
+    style: flickr
+    alt: Flickr Logo
+  - text: GitHub
+    url: "#"
+    icon: github
+    style: github
+    alt: GitHub Logo
+  - text: GitLab
+    url: "#"
+    icon: gitlab
+    style: gitlab
+    alt: GitLab Logo
+  - text: GoFundMe
+    url: "#"
+    icon: gofundme
+    style: gofundme
+    alt: GoFundMe Logo
+  - text: Goodreads
+    url: "#"
+    icon: goodreads
+    style: goodreads
+    alt: Goodreads Logo
+  - text: View in Google Drive
+    url: "#"
+    icon: google-drive
+    style: google-black
+    alt: Google Drive Logo
+  - text: Google Play Store
+    url: "#"
+    icon: google-play
+    style: playstore
+    alt: Google Play Store Logo
+  - text: Google Scholar
+    url: "#"
+    icon: google-scholar
+    style: google-scholar
+    alt: Google Scholar Logo
+  - text: Hashnode
+    url: "#"
+    icon: hashnode
+    style: hashnode
+    alt: Hashnode Logo
+  - text: Instagram
+    url: "#"
+    icon: instagram
+    style: instagram
+    alt: Instagram Logo
+  - text: Kick
+    url: "#"
+    icon: kick
+    style: kick
+    alt: Kick Logo
+  - text: Kick
+    url: "#"
+    icon: kick-alt
+    style: kick-alt
+    alt: Kick Logo
+  - text: Kickstarter
+    url: "#"
+    icon: kickstarter
+    style: kickstarter
+    alt: Kickstarter Logo
+  - text: Kit
+    url: "#"
+    icon: kit
+    style: kit
+    alt: Kit Logo
+  - text: Support me on Ko-fi
+    url: "#"
+    icon: ko-fi
+    style: ko-fi
+    alt: Ko-fi Logo
+  - text: Last.fm
+    url: "#"
+    icon: last-fm
+    style: last-fm
+    alt: ""
+  - text: Letterboxd
+    url: "#"
+    icon: letterboxd
+    style: letterboxd
+    alt: ""
+  - text: Line
+    url: "#"
+    icon: line
+    style: line
+    alt: Line Logo
+  - text: LinkedIn
+    url: "#"
+    icon: linkedin
+    style: linked
+    alt: LinkedIn Logo
+  - text: Mailchimp
+    url: "#"
+    icon: mailchimp
+    style: mailchimp
+    alt: Mailchimp Logo
+  - text: Mastodon
+    url: "#"
+    icon: mastodon
+    style: mastodon
+    alt: Mastodon Logo
+  - text: Matrix
+    url: "#"
+    icon: matrix
+    style: matrix
+    alt: Matrix Logo
+  - text: Medium
+    url: "#"
+    icon: medium
+    style: medium
+    alt: Medium Logo
+  - text: Meetup
+    url: "#"
+    icon: meetup
+    style: meetup
+    alt: Meetup Logo
+  - text: Meetup
+    url: "#"
+    icon: meetup-alt
+    style: meetup-alt
+    alt: Meetup Logo
+  - text: Get it from Microsoft
+    url: "#"
+    icon: microsoft
+    style: microsoft
+    alt: Microsoft Logo
+  - text: Notion
+    url: "#"
+    icon: notion
+    style: notion
+    alt: Notion Logo
+  - text: Obsidian
+    url: "#"
+    icon: obsidian
+    style: obsidian
+    alt: Obsidian Logo
+  - text: OnlyFans (18+)
+    url: "#"
+    icon: onlyfans
+    style: onlyfans
+    alt: OnlyFans Logo
+  - text: Patreon
+    url: "#"
+    icon: patreon
+    style: patreon
+    alt: Patreon Logo
+  - text: PayPal
+    url: "#"
+    icon: paypal
+    style: paypal
+    alt: PayPal Logo
+  - text: Pinterest
+    url: "#"
+    icon: pinterest
+    style: pinterest
+    alt: Pinterest Logo
+  - text: Product Hunt
+    url: "#"
+    icon: product-hunt
+    style: product-hunt
+    alt: Product Hunt Logo
+  - text: Reddit
+    url: "#"
+    icon: reddit
+    style: reddit
+    alt: Reddit Logo
+  - text: Buy with Shop
+    url: "#"
+    icon: shop
+    style: shop
+    alt: Shop Logo
+  - text: Signal
+    url: "#"
+    icon: signal
+    style: signal
+    alt: Signal Logo
+  - text: Signal
+    url: "#"
+    icon: signal-alt
+    style: signal-alt
+    alt: Signal Logo
+  - text: Join Slack
+    url: "#"
+    icon: slack
+    style: slack
+    alt: Slack Logo
+  - text: Snapchat
+    url: "#"
+    icon: snapchat
+    style: snapchat
+    alt: Snapchat Logo
+  - text: SoundCloud
+    url: "#"
+    icon: soundcloud
+    style: soundcloud
+    alt: SoundCloud Logo
+  - text: Listen on Spotify
+    url: "#"
+    icon: spotify
+    style: spotify
+    alt: Spotify Logo
+  - text: Listen on Spotify
+    url: "#"
+    icon: spotify-alt
+    style: spotify-alt
+    alt: Spotify Logo
+  - text: Buy with Square
+    url: "#"
+    icon: square
+    style: square
+    alt: Square Logo
+  - text: Stack Overflow
+    url: "#"
+    icon: stack-overflow
+    style: stack-overflow
+    alt: Stack Overflow Logo
+  - text: Steam
+    url: "#"
+    icon: steam
+    style: steam
+    alt: Steam Logo
+  - text: Steam
+    url: "#"
+    icon: steam
+    style: steam-alt
+    alt: Steam Logo
+  - text: Strava
+    url: "#"
+    icon: strava
+    style: strava
+    alt: Strava Logo
+  - text: Substack
+    url: "#"
+    icon: substack
+    style: substack
+    alt: Substack Logo
+  - text: Telegram
+    url: "#"
+    icon: telegram
+    style: telegram
+    alt: Telegram Logo
+  - text: Threads
+    url: "#"
+    icon: threads
+    style: threads
+    alt: Threads Logo
+  - text: Threema
+    url: "#"
+    icon: threema
+    style: threema
+    alt: Threema Logo
+  - text: TikTok
+    url: "#"
+    icon: tiktok
+    style: tiktok
+    alt: TikTok Logo
+  - text: Trello
+    url: "#"
+    icon: trello
+    style: trello
+    alt: Trello Logo
+  - text: Tumblr
+    url: "#"
+    icon: tumblr
+    style: tumb
+    alt: Tumblr Logo
+  - text: Twitch
+    url: "#"
+    icon: twitch
+    style: twitch
+    alt: Twitch Logo
+  - text: Unsplash
+    url: "#"
+    icon: unsplash
+    style: unsplash
+    alt: Unsplash Logo
+  - text: Venmo
+    url: "#"
+    icon: venmo
+    style: venmo
+    alt: Venmo Logo
+  - text: Vimeo
+    url: "#"
+    icon: vimeo
+    style: vimeo
+    alt: Vimeo Logo
+  - text: VSCO
+    url: "#"
+    icon: vsco
+    style: vsco
+    alt: VSCO Logo
+  - text: WhatsApp
+    url: "#"
+    icon: whatsapp
+    style: whatsapp
+    alt: WhatsApp Logo
+  - text: WordPress
+    url: "#"
+    icon: wordpress
+    style: wordpress
+    alt: WordPress Logo
+  - text: Follow on X
+    url: "#"
+    icon: x
+    style: x
+    alt: X Logo
+  - text: YouTube
+    url: "#"
+    icon: youtube
+    style: yt
+    alt: YouTube Logo
+  - text: YouTube
+    url: "#"
+    icon: youtube-alt
+    style: yt-alt
+    alt: YouTube Logo
+  - text: Listen on YouTube Music
+    url: "#"
+    icon: youtube-music
+    style: yt
+    alt: YouTube Music Logo
+  - text: Join Zoom Webinar
+    url: "#"
+    icon: zoom
+    style: zoom
+    alt: Zoom Logo
+  - text: Read our blog
+    url: "#"
+    icon: generic-blog
+    style: default
+    alt: Blog Icon
+  - text: Event RSVP
+    url: "#"
+    icon: generic-calendar
+    style: default
+    alt: Calendar Icon
+  - text: Download File
+    url: "#"
+    icon: generic-cloud
+    style: default
+    alt: Cloud Icon
+  - text: View the code
+    url: "#"
+    icon: generic-code
+    style: default
+    alt: Code Icon
+  - text: Homelab Setup
+    url: "#"
+    icon: generic-computer
+    style: default
+    alt: Computer Icon
+  - text: Email Us
+    url: "#"
+    icon: generic-email
+    style: default
+    alt: Email Icon
+  - text: Email Us
+    url: "#"
+    icon: generic-email-alt
+    style: default
+    alt: Email Icon
+  - text: Visit Homepage
+    url: "#"
+    icon: generic-homepage
+    style: default
+    alt: Homepage Icon
+  - text: Get Directions
+    url: "#"
+    icon: generic-map
+    style: default
+    alt: Map Icon
+  - text: Call Us
+    url: "#"
+    icon: generic-phone
+    style: default
+    alt: Phone Icon
+  - text: Leave us a review
+    url: "#"
+    icon: generic-review
+    style: default
+    alt: Review Icon
+  - text: RSS Subscribe
+    url: "#"
+    icon: generic-rss
+    style: default
+    alt: RSS Icon
+  - text: Visit Our Shop
+    url: "#"
+    icon: generic-shopping-bag
+    style: default
+    alt: Shopping Bag Icon
+  - text: 10% Discount
+    url: "#"
+    icon: generic-shopping-tag
+    style: default
+    alt: Shopping Tag Icon
+  - text: Send us a message
+    url: "#"
+    icon: generic-sms
+    style: default
+    alt: SMS Icon
+  - text: Visit Website
+    url: "#"
+    icon: generic-website
+    style: default
+    alt: Website Icon
+  - text: LittleLink Extended
+    url: "https://github.com/sethcottle/littlelink-extended"
+    icon: littlelink
+    style: default
+    alt: LittleLink Logo
 
