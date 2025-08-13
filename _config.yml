@@ -21,3 +21,11 @@ description: Jekyll-LinkinBio is a Jekyll theme for GitHub Pages
 keywords: your name, industry, and specialties
 author:
   name: junian
+
+links:
+  - text: Google
+    url: https://google.com
+    icon: littlelink
+    style: default
+    alt: Google
+
