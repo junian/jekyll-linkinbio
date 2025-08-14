@@ -333,6 +333,11 @@ ul li {
 	margin-bottom:var(--spacing-xs);
 }
 
+.icon svg {
+	max-width: 100%;
+    display: block;
+}
+
 /* Privacy page specific responsive adjustments */
   @media (max-width:34.375rem) {
 	h2 {
