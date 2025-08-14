@@ -52,7 +52,10 @@ avatar:
   #  - none: Removes any rounding
   rounding: rounded
 
-use_inline_icon: true
+# Use inline SVG or <img>
+#  - true: Will try to embed from _includes (WARNING: still broken expemriment)
+#  - false: Use <img>
+use_inline_icon: false
 
 links:
   - text: LittleLink
