@@ -1,3 +1,35 @@
+title: Jekyll Theme LinkinBio
+description: Jekyll-LinkinBio is a Jekyll theme for GitHub Pages
+keywords: your name, industry, and specialties
+google_analytics: G-MKQK789F6L
+
+github:
+  is_project_page: false
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/junian/jekyll-linkinbio"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+whitelist:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: junian
+
 exclude:
   - node_modules
   - script
@@ -6,21 +38,6 @@ sass:
   style: compressed
 
 # theme: jekyll-theme-primer
-
-github:
-  private: false
-  license:
-    name: MIT
-  source:
-    branch: "master"
-    path: "/"
-  repository_url: "https://github.com/junian/jekyll-linkinbio"
-  
-title: Jekyll Theme LinkinBio
-description: Jekyll-LinkinBio is a Jekyll theme for GitHub Pages
-keywords: your name, industry, and specialties
-author:
-  name: junian
 
 # To change the theme, change the class on the html tag below to one of:
 #   - auto: Automatically switches based on user's system preferences
