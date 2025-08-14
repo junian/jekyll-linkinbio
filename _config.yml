@@ -52,6 +52,8 @@ avatar:
   #  - none: Removes any rounding
   rounding: rounded
 
+use_inline_icon: true
+
 links:
   - text: LittleLink
     url: "#"

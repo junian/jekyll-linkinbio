@@ -65,11 +65,18 @@
             <p>{{ site.description }}</p>
 
             <!-- All your buttons go here -->
+             {% if site.links %}
             <div class="button-stack" role="navigation">
               {% for item in site.links %}
-                <a class="button button-{{item.style}}" href="{{item.url}}" target="_blank" rel="noopener" role="button">{% capture icon_path %}images/icons/{{ item.icon }}.svg{% endcapture %}<span class="icon" aria-hidden="true" alt="{{item.alt}}">{% include {{ icon_path }} %}</span>{{item.text}}</a>
+                {% if site.use_inline_icon %}
+                  <a class="button button-{{item.style}}" href="{{item.url}}" target="_blank" rel="noopener" role="button">{% capture icon_path %}images/icons/{{ item.icon }}.svg{% endcapture %}<span class="icon" aria-hidden="true" alt="{{item.alt}}">{% include {{ icon_path }} %}</span>{{item.text}}</a>
+                {% else %}
+                  <a class="button button-{{item.style}}" href="{{item.url}}" target="_blank" rel="noopener" role="button"><img class="icon" aria-hidden="true" src="{{ '/assets/images/icons/' | append: item.icon | append: '.svg' | relative_url }}" alt="{{item.alt}}">{{item.text}}</a>
+                {% endif %}
+                
               {% endfor %}              
             </div>
+            {% endif %}
 
       <!-- Feel free to add your own footer information, including updating `privacy.html` to reflect how your LittleLink fork is set up -->
       <footer>
