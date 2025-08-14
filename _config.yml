@@ -43,14 +43,14 @@ sass:
 #   - auto: Automatically switches based on user's system preferences
 #   - light: Forces light theme
 #   - dark: Forces dark theme
-theme_mode: dark
+theme_mode: auto
 
 avatar:
   # By default, the Avatar is rounded. Use the following:
   #  - rounded: Automatically rounds the image
   #  - soft: Slightly rounds the image
   #  - none: Removes any rounding
-  rounding: soft
+  rounding: rounded
 
 links:
   - text: LittleLink
