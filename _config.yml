@@ -57,7 +57,7 @@ avatar:
 #  - false: Use <img>
 use_inline_icon: false
 
-links:
+vertical_links:
   - text: LittleLink
     url: "#"
     icon: littlelink
