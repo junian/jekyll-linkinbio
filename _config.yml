@@ -2,6 +2,7 @@ title: Jekyll Theme LinkinBio
 description: Jekyll-LinkinBio is a Jekyll theme for GitHub Pages
 keywords: your name, industry, and specialties
 google_analytics: G-MKQK789F6L
+remote_theme: junian/jekyll-linkinbio
 
 github:
   is_project_page: false
