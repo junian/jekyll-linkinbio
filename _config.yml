@@ -1,8 +1,13 @@
-title: Jekyll Theme LinkinBio
-description: Jekyll-LinkinBio is a Jekyll theme for GitHub Pages
+title: Jekyll Link in bio Theme
+description: jekyll-linkinbio is a simple link in bio Jekyll theme, optimized for GitHub Pages
 keywords: your name, industry, and specialties
-google_analytics: G-MKQK789F6L
+google_analytics: G-BJ58GF34YZ
+# theme: just-the-docs
 remote_theme: junian/jekyll-linkinbio
+url: "https://www.junian.dev" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jekyll-linkinbio" # the subpath of your site, e.g. /blog
+repository: junian/jekyll-linkinbio # for github-metadata
+enforce_canonical_domain: true
 
 github:
   is_project_page: false
